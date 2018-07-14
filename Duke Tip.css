@@ -203,7 +203,10 @@ hr.light-100 {
   padding: .7rem;
 }
 }
+img1 {
+  width: 105%;
 
+}
 
 /*---Firefox Bug Fix --*/
 .carousel-item {
@@ -254,6 +257,14 @@ figure {
     margin-right: auto;
     height:500px;
     width:auto;
+}
+.centerText{
+  text-align: center;
+}
+.table {
+
+  margin: 0 auto;
+
 }
 
 
